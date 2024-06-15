@@ -1,4 +1,3 @@
 # this is the readme file<br>
-this is the sub branch<br>
-This is the main branch
+this is the sub branch
 
